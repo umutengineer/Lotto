@@ -33,15 +33,5 @@ Uygulama ana ekranından aşağıdaki 4 oyundan biri seçilebilir:
 - ObjectAnimator / AnimatorSet ile animasyonlar
 - XML bazlı UI
 
-## 🚀 Başlangıç
-
-Projeyi çalıştırmak için:
-
-1. Bu depoyu klonlayın:
-    ```bash
-    git clone https://github.com/kullaniciadi/sans-oyunlari-istatistik.git
-    ```
-2. Android Studio ile açın
-3. Bir cihaz veya emülatör seçerek çalıştırın
 
 
