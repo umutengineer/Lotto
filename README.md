@@ -44,4 +44,4 @@ Projeyi çalıştırmak için:
 2. Android Studio ile açın
 3. Bir cihaz veya emülatör seçerek çalıştırın
 
-## 📂 Dizin Yapısı
+
